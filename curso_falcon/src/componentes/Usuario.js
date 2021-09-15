@@ -19,3 +19,4 @@ const Usuario = ()=>{
     );
   };
   export default Usuario;
+  /* sincronizacion */
